@@ -1,0 +1,24 @@
+[
+    {"id": 1,
+      "nombre_curso": "Manicuría Basica",
+      "monto_curso": 10000,
+      "cantidad_cuotas": 36,
+      "tasa_interes_anual": 0.1,
+      "descripcion": "Aprende las técnicas de manicuría profesional."
+    },
+    {"id": 2,
+      "nombre_curso": "Manicuria Rusa",
+      "monto_curso": 15000,
+      "cantidad_cuotas": 36,
+      "tasa_interes_anual": 0.12,
+      "descripcion": "Aprende las técnicas de manicuría profesional mas avanzadas."
+    },
+    {"id": 3,
+      "nombre_curso": "Esculpidas",
+      "monto_curso": 8000,
+      "cantidad_cuotas": 24,
+      "tasa_interes_anual": 0.08,
+      "descripcion": "Aprende las las mejores tecnicas para esculpir."
+    }
+  ]
+  
